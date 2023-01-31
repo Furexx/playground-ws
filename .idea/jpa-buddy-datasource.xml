@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JpbDataSourceConfig">
+    <data-sources>
+      <data-source id="dfed3ad5-8c94-4f6d-871d-27809d2d3dc9" name="playground-ws" url="jdbc:oracle:thin:@//localhost/oracle" driverClass="oracle.jdbc.OracleDriver" />
+    </data-sources>
+  </component>
+</project>

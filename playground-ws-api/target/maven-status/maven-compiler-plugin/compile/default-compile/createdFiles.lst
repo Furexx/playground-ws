@@ -1,0 +1,13 @@
+de\bonprix\dto\ParkingZone.class
+de\bonprix\service\parkingplace\filter\ParkingPlaceFilter.class
+de\bonprix\service\parkingplace\ParkingPlaceService.class
+de\bonprix\service\car\CarService.class
+de\bonprix\dto\Parking.class
+de\bonprix\service\parkingzone\ParkingZoneService.class
+de\bonprix\dto\builder\CarBuilder.class
+de\bonprix\service\parking\filter\ParkingFilter.class
+de\bonprix\service\car\filter\CarFilter.class
+de\bonprix\service\parking\ParkingService.class
+de\bonprix\dto\Car.class
+de\bonprix\dto\ParkingPlace.class
+de\bonprix\service\parkingzone\filter\ParkingZoneFilter.class
